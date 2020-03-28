@@ -20,7 +20,7 @@ This repo contains the code and trained models for out paper Concat Convolutiona
 
 - keras_metrics
 
-  Note: The Python version depends on the what version of python is Presto installed on. In other words, the code of CCNN can run both in Python 2 and 3.
+  **Note: The Python version depends on the what version of python is Presto installed on. In other words, the code of CCNN can run both in Python 2 and 3.**
 
 ### Experimental data
 
