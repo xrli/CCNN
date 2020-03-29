@@ -1,6 +1,6 @@
 # Concat Convolutional Neural Network for Pulsar Candidate Selection
 
-This repo contains the code and trained models for out paper Concat Convolutional Neural Network for Pulsar Candidate Selection.
+This repo contains the code and trained models for our paper *Concat Convolutional Neural Network for Pulsar Candidate Selection*.
 
 ### Requirements
 
