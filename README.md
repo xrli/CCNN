@@ -42,5 +42,6 @@ This repo contains the code and trained models for our paper *Concat Convolution
 
 ### Citation
 
-- If you found this code useful please cite our paper
+- If you found this code useful please cite our paper: 
+Qingguo Zeng, Xiangru Li*, Haitao Lin. Concat Convolutional Neural Network for Pulsar Candidate Selection.  MNRAS, 494(3): 3110-3119, 2020.
 
